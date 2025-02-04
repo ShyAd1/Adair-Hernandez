@@ -13,7 +13,7 @@
 - :monocle_face: I'm interested in coding, listening music, and gaming
 - :ok_hand: Fun fact: sometimes I'm only sleep 4 to 6 hours and always I do my 100%
 
-## <img src="Resources/Script Coding Sticker by fourplex GmbH.gif" width="50px" height="50px"> Some Languages and Tools
+## <img src="Resources/Script Coding Sticker by fourplex GmbH.gif" width="25px" height="25px"> Some Languages and Tools
 
 <p align="center">
 
@@ -54,3 +54,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyAd1&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"/>
     </a>
 </p>
+
+## Connect with me

@@ -58,5 +58,5 @@
 ## Connect with me
 
 <p align="center">
-  <a href="mailto:adheva05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CCAEB1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:adheva05@gmail.com"><img src="https://img.shields.io/badge/Gmail-6500CB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>

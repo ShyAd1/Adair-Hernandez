@@ -48,7 +48,9 @@
 
 <p align="center">
     <a href="https://github.com/ShyAd1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyAd1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></a>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyAd1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    </a>
     <a href="https://github.com/ShyAd1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyAd1&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AmardeepKesharwani"/></a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyAd1&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"/>
+    </a>
 </p>
